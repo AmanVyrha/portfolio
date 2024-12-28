@@ -17,7 +17,7 @@ const redirectOnClick = () => {
     >
       <img :src="profile" alt="profile_image" class="w-9 h-9" />
       <h5 class="text-base font-medium text-not_white max-md:hidden">
-        Abhay Balakrishnan
+        Aman Vyrha
       </h5>
     </div>
   </div>
