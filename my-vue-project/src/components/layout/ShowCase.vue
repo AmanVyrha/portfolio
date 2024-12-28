@@ -8,35 +8,35 @@ const cards = [
   {
     title: "Predictive Analytics Model",
     description: "Sales Forecasting Using Machine Learning",
-    imgSrc: predictive_analytics_image,  // Replace with actual image source
+    imgSrc: swift_summarizer,  // Replace with actual image source
     imgAlt: "Sales Forecasting",
     link: "https://github.com/AmanVyrha/sales-prediction-model",  // Replace with your GitHub repo link
   },
   {
     title: "Time Series Forecasting for Stock Prices",
     description: "Predicting Stock Market Trends Using LSTM Networks",
-    imgSrc: time_series_forecasting_image,  // Replace with actual image source
+    imgSrc: astra,  // Replace with actual image source
     imgAlt: "Stock Price Prediction",
     link: "https://github.com/AmanVyrha/stock-price-forecasting",  // Replace with your GitHub repo link
   },
   {
     title: "Customer Segmentation Using K-means Clustering",
     description: "Segmenting Customers Based on Purchasing Behavior",
-    imgSrc: customer_segmentation_image,  // Replace with actual image source
+    imgSrc: alleviate,  // Replace with actual image source
     imgAlt: "Customer Segmentation",
     link: "https://github.com/AmanVyrha/customer-segmentation",  // Replace with your GitHub repo link
   },
   {
     title: "Risk Assessment in Insurance",
     description: "Monte Carlo Simulations for Risk Evaluation",
-    imgSrc: risk_assessment_image,  // Replace with actual image source
+    imgSrc: eventsync,  // Replace with actual image source
     imgAlt: "Risk Assessment",
     link: "https://github.com/AmanVyrha/insurance-risk-assessment",  // Replace with your GitHub repo link
   },
   {
     title: "Data Cleaning and ETL Pipeline",
     description: "Automated Data Transformation Pipeline for Large Datasets",
-    imgSrc: data_cleaning_image,  // Replace with actual image source
+    imgSrc: alleviate,  // Replace with actual image source
     imgAlt: "Data Cleaning Pipeline",
     link: "https://github.com/AmanVyrha/data-cleaning-etl-pipeline",  // Replace with your GitHub repo link
   },
