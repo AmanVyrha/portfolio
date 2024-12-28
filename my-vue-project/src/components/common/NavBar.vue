@@ -2,7 +2,7 @@
 import { profile } from "../../assets/index.js";
 
 const redirectOnClick = () => {
-  window.location.href = "https://abhayyy.vercel.app";
+  window.location.href = "https://portfolio-pucpxj9fn-aman-vyrhas-projects.vercel.app/";
 };
 </script>
 
